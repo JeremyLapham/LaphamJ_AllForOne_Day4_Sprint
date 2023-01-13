@@ -1,0 +1,270 @@
+.navbar {
+    background-color: black;
+}
+
+.navbar-word {
+    color: white;
+}
+
+.homePageBack {
+    background-image: url(/assets/AllForOne.png);
+    background-repeat: no-repeat;
+    background-size: 1550px;
+    background-position-x: -1rem;
+}
+
+.sayHelloBack {
+    background-image: url(/assets/SayHello2.png);
+    background-repeat: no-repeat;
+    background-size: 1600px;
+    background-position-y: 2rem;
+}
+
+.addingNumBack {
+    background-image: url(/assets/AddingNumbers.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px;
+}
+
+.askingQuestionBack {
+    background-image: url(/assets/Asking\ questions.jpg);
+    background-repeat: no-repeat;
+    background-size: 1700px;
+}
+
+.greaterLessBack {
+    background-image: url(/assets/GreaterLess.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px;
+}
+
+.madlibBack {
+    background-image: url(/assets/MadLibs.jpg);
+    background-repeat: no-repeat;
+    background-size: 2100px;
+    background-position-x: -25rem;
+    background-position-y: 2rem;
+}
+
+.OddEven {
+    background-image: url(/assets/OddEven.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px;
+}
+
+.reverseBack {
+    background-image: url(/assets/ReverseIt.jpg);
+    background-repeat: no-repeat;
+    background-size: 1700px;
+}
+
+.directoryBack {
+    background-image: url(/assets/Directory.png);
+    background-repeat: no-repeat;
+    background-size: 1600px;
+}
+
+.restaurantPicker {
+    background-image: url(/assets/ResturantPcik.jpg);
+    background-repeat: no-repeat;
+}
+
+.homeBlackBar {
+    margin-top: 152px;
+    background-color: black;
+    height: 134px;
+}
+
+.homeWords {
+    margin-top: 2rem;
+    color: white;
+}
+
+.btnHomeColorSize {
+    margin: 1rem;
+    padding: 1rem;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    width: 300px;
+    font-size: 30px;
+}
+
+.btn-center {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.rowSpaceHome {
+    margin-top: 96px;
+}
+
+.page1Color {
+    color: black;
+    font-size: 50px;
+    background-color: #D9D9D9;
+}
+
+.marginpage1 {
+    margin-top: 8rem;
+}
+
+.page1Back {
+    margin-top: 5rem;
+    opacity: 70%;
+    background-color: black;
+}
+
+.textpage1 {
+    padding-top: 5rem;
+    color: white;
+    height: 268px;
+    width: 689;
+    display: flex;
+    justify-content: center;
+}
+
+.borderpage1 {
+    border: 8px solid;
+}
+
+.page2TetxBG {
+    margin-left: 31rem;
+    margin-top: 10rem;
+    background-color: black;
+    height: 116px;
+    width: 300px;
+    color: white;
+    opacity: 50%;
+}
+
+.page2TextBG {
+    margin-left: 27.5rem;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    background-color: black;
+    height: 100px;
+    width: 400px;
+    color: white;
+    opacity: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.page3TetxBG {
+    margin-left: 24rem;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    background-color: black;
+    height: 170px;
+    width: 500px;
+    color: white;
+    opacity: 60%;
+    display: flex;
+    justify-content: center;
+}
+
+.marginpage2 {
+    margin-top: 5rem;
+}
+
+.page3TextBG {
+    margin-left: 24rem;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    background-color: black;
+    height: 150px;
+    width: 500px;
+    color: white;
+    opacity: 70%;
+    display: flex;
+    justify-content: center;
+}
+
+.page5TetxBG {
+    margin-left: 6rem;
+    margin-top: 3rem;
+    padding-top: 1rem;
+    background-color: black;
+    height: 352px;
+    width: 1261px;
+    color: white;
+    opacity: 70%;
+    display: flex;
+    justify-content: center;
+}
+
+.page6TextBG {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    background-color: black;
+    height: 100px;
+    width: 400px;
+    color: white;
+    opacity: 70%;
+    display: flex;
+    justify-content: center;
+}
+
+.page7TextBG {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    background-color: black;
+    height: 100px;
+    width: 600px;
+    color: white;
+    opacity: 70%;
+    display: flex;
+    justify-content: center;
+}
+
+.page7Form {
+    display: flex;
+    justify-content: center;
+}
+
+.dropdown {
+    display: flex;
+    justify-content: center;
+}
+
+.dropdown-menu {
+    width: 500px;
+}
+
+.page8TetxBG {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    background-color: black;
+    height: 352px;
+    width: 1000px;
+    color: white;
+    opacity: 70%;
+}
+
+.page9TetxBG {
+    margin-left: 22.5rem;
+    margin-top: 3rem;
+    padding-top: 6rem;
+    background-color: black;
+    height: 265px;
+    width: 574px;
+    color: white;
+    opacity: 70%;
+    display: flex;
+    justify-content: center;
+}
+
+.superLarge {
+    font-size: 30px;
+}
+
+.page7TetxBG {
+    margin-left: 24rem;
+    margin-top: 10rem;
+    background-color: black;
+    height: 116px;
+    width: 500px;
+    color: white;
+    opacity: 70%;
+}
